@@ -6,4 +6,4 @@
 
 
 And this is the inside of the application works:
-https://github.com/Erzhatogre12/alarm/assets/90740177/6e9c78f9-6375-4143-8d75-b086a0fdfb7d
+![video bukti](https://github.com/Erzhatogre12/alarm/assets/90740177/cb36af68-9118-4e04-b86e-f5694d4440b2)
